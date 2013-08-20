@@ -1,0 +1,2 @@
+Run "pasteboard.rkt".
+Enjoy.
